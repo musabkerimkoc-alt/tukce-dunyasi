@@ -10,4 +10,17 @@ Musab Kerim Koç ve Çağan İnanç Öztürk
 | --- | --- | --- |
 | <a href="https://commons.wikimedia.org/wiki/File:General_Mustafa_Kemal_in_Aleppo,_1917.png"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/General_Mustafa_Kemal_in_Aleppo%2C_1917.png" width="220" alt="Mustafa Kemal, Halep'te, 1917"></a> | <a href="https://commons.wikimedia.org/wiki/File:Kemal_Atat%C3%BCrk_portrait.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Kemal_Atat%C3%BCrk_portrait.jpg" width="220" alt="Mustafa Kemal'in yaklaşık 1918 tarihli portresi"></a> | <a href="https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk_1921.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Mustafa_Kemal_Atat%C3%BCrk_1921.jpg" width="220" alt="Mustafa Kemal Atatürk, 1921"></a> |
 | Kaynak: Wikimedia Commons, kamu malı | Kaynak: Wikimedia Commons, kamu malı | Fotoğraf: TYalaA, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk_1921.jpg) |
-|A|B|C|D|
+---
+  Mustafa Kemal Atatürk (Musab bu kısımları sen doldurursun 2 satır aşşağı atlamazsan birleşik yazıyor yani)
+  AA yazmak için 
+
+  A
+
+  A yazabilirsin daha düzenli olur.
+---
+#Öncülük Ettiği Kurumlar
+| Yöneticiliğini yaptığı kurum | Yılı | süresi |
+| --- | --- | --- |
+| Yöneticiliğini yaptığı kurum | Yılı | süresi |
+| Yöneticiliğini yaptığı kurum | Yılı | süresi |
+
