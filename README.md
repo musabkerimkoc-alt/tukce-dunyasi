@@ -21,6 +21,6 @@ Musab Kerim Koç ve Çağan İnanç Öztürk
 #Öncülük Ettiği Kurumlar
 | Yöneticiliğini yaptığı kurum | Yılı | süresi |
 | --- | --- | --- |
-| Yöneticiliğini yaptığı kurum | Yılı | süresi |
-| Yöneticiliğini yaptığı kurum | Yılı | süresi |
+| TBMM | 24 Nisan 1920 | süresi 3 yıl 6 ay 5 gün|
+| Sivas kongresi | Yılı 1919| süresi 1 hafta|
 
